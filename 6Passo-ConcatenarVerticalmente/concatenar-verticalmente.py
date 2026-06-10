@@ -11,7 +11,7 @@ import os
 import re
 
 pasta_imagens = "divididas-sem-bordas-do-meio"
-pasta_saida = "29a31"
+pasta_saida = "Imagens_Concatenadas"
 os.makedirs(pasta_saida, exist_ok=True)
 
 # Função para extrair o número da página e ordenar corretamente
